@@ -10,7 +10,7 @@
   vimUtils,
 }:
 let
-  version = "0.0.16";
+  version = "0.0.18";
   src = fetchFromGitHub {
     owner = "yetone";
     repo = "avante.nvim";
